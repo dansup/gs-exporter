@@ -1,0 +1,6 @@
+{
+    "require": {
+        "kitetail/zttp": "^0.3.0",
+        "vlucas/phpdotenv": "^2.4"
+    }
+}
